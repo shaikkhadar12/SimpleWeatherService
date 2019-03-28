@@ -1,0 +1,8 @@
+com/demo/weather/model/WeatherForecast.class
+com/demo/weather/model/Weather.class
+com/demo/weather/JerseyConfig.class
+com/demo/weather/rest/controller/WeatherServiceController.class
+com/demo/weather/rest/client/WeatherService.class
+com/demo/weather/CombinedResourceProvider.class
+com/demo/weather/model/ResponseMessage.class
+com/demo/weather/WeatherServiceApplication.class

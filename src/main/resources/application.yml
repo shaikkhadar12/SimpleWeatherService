@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+
+spring:
+  application:
+    name: weather-service
+ 
+ 
+app:
+  weather:
+    api:
+      key: 22b9cf77aed55571f98c3189f1e003c3
